@@ -1,0 +1,10 @@
+:root {
+  color-scheme: light;
+  --color-brand: #0f766e;
+  --color-ink: #17202a;
+  --color-panel: #f7f8fa;
+}
+
+.dark {
+  color-scheme: dark;
+}
